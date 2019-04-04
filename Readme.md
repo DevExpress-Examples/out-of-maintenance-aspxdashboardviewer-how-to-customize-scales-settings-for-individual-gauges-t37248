@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[WebForm1.aspx](./CS/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/WebForm1.aspx))**
-* [WebForm1.aspx.cs](./CS/WebForm1.aspx.cs) (VB: [WebForm1.aspx](./VB/WebForm1.aspx))
+* [WebForm1.aspx.cs](./CS/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/WebForm1.aspx.vb))
 <!-- default file list end -->
 # ASPxDashboardViewer - How to customize scales' settings for individual gauges
 
